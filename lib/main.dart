@@ -158,7 +158,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
-        tooltip: 'Record',
+     //   tooltip: 'Record',
         elevation: 1,
         backgroundColor: Colors.black,
         child: const Icon(Icons.mic_none),
